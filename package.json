@@ -1,0 +1,27 @@
+{
+  "name": "jade-layouts",
+  "version": "0.0.0",
+  "description": "A template engine that wraps a jade template in a layout",
+  "main": "jade-layouts.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danhart/jade-layouts.git"
+  },
+  "keywords": [
+    "express",
+    "html",
+    "builder",
+    "layout"
+  ],
+  "author": "Dan Hart",
+  "bugs": {
+    "url": "https://github.com/danhart/jade-layouts/issues"
+  },
+  "homepage": "https://github.com/danhart/jade-layouts"
+}
